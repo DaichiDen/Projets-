@@ -1,0 +1,49 @@
+body {
+  background: url(particlesjs-examples.gif);
+  background-repeat: repeat-y;;
+  background-size: auto;
+  background-color: #b38ddd;
+  background-size: 1300px 650px;
+}
+
+h1 {
+  color: indigo;
+  font-size: 2em;
+  margin:0;
+  padding: 0;
+  text-align: center;
+}
+p {
+  color: black;
+  animation-name: mymove;
+}
+h2 {
+  color: black;
+}
+p { color:black; }
+
+#Mid { color:red; font-weight:bold; }
+
+p { color:black; }
+
+#Support { color:mediumslateblue; font-weight:bold; }
+
+
+p { color:black; }
+
+#ADc { color:#9423d7; font-weight:bold; }
+
+p { color:black; }
+
+#Top { color:#5e0092; font-weight:bold; }
+
+div.a {
+  text-align: right;
+}
+div.b {
+  text-align: right;
+}
+div.c {
+  text-align: left;
+} 
+
